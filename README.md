@@ -1,4 +1,5 @@
 # AI Text Summarizer
+<img width="1253" height="488" alt="image" src="https://github.com/user-attachments/assets/3572c352-beb7-4522-b0a4-8fbbe4ea07bd" />
 
 ## Overview
 
